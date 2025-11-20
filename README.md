@@ -23,6 +23,9 @@
 ## 📦 Installation
 
 ```bash
+rm -rf SMS0BOMBER
+```
+```
 git clone https://github.com/Siam-Bruh/SMS0BOMBER.git
 ```
 ```
@@ -37,7 +40,10 @@ python Run.py
 ## ⚡ 1-Click Installation
 
 ```bash
-rm -rf git clone https://github.com/Siam-Bruh/SMS0BOMBER.git cd SMS0BOMBER python Run.py
+rm -rf SMS0BOMBER
+git clone https://github.com/Siam-Bruh/SMS0BOMBER.git
+cd SMS0BOMBER
+python Run.py
 ```
 
 ---
